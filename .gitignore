@@ -1,0 +1,11 @@
+# Node.js dependencies (React)
+frontend/node_modules
+
+# Python dependencies (Django)
+venv/
+backend1/__pycache__/
+backend1/db.sqlite3
+
+# Environment & System Files
+.env
+.DS_Store
