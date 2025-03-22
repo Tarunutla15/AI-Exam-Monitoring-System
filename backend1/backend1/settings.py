@@ -58,6 +58,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",  # ✅ Allow frontend
+    "https://ai-ems.netlify.app/"
 ]
 
 ROOT_URLCONF = 'backend1.urls'
